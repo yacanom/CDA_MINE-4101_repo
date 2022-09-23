@@ -5,5 +5,5 @@ Yeimy A. Cano M - y.cano@uniandes.edu.co
 #Taller 1 - 11 Sep 2022
 Dentro del repositorio se encuentra la carpeta Taller 1, en donde se encuentra el notebook correspondiente al taller 1.
 
-#Quiz 2 - 22 sep 2022
-Dentro de la carpeta Quiz2 (CDA_MINE-4101_repo/Quiz2/) se encuentra en norebook del desarrollo de los puntos del quiz2.
+#Quiz 3 - 22 sep 2022
+Dentro de la carpeta Quiz2 (CDA_MINE-4101_repo/Quiz3/) se encuentra en norebook del desarrollo de los puntos del quiz3 sobre regresión linear, polinomial y regularización
