@@ -12,4 +12,4 @@ Dentro de la carpeta Quiz3 (CDA_MINE-4101_repo/Quiz3/) se encuentra en notebook 
 Dentro de la carpeta Data-quality-tutorial (CDA_MINE-4101_repo/Data-quality-tutorial) se encuentra en notebook del desarrollo del tutorial de calidad de daltos.
 
 #Parcial1 - 29 septiembre
-Dentro de la carpeta Parcial (CDA_MINE-4101_repo/Parcial) se encuentra la data y el desarrollo del notebook del parcial 1.
+Dentro de la carpeta Parcial (CDA_MINE-4101_repo/Parcial 1) se encuentra la data y el desarrollo del notebook del parcial 1.
